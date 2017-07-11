@@ -1,0 +1,11 @@
+#divbox{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: deeppink;
+    opacity: inherit;
+    border: 40px solid;
+    border-color: blue;
+    margin: 25px;
+    padding: 10px;
+}
